@@ -100,6 +100,7 @@
 
 ### 📱 **Sociolyze – Social Media Management System**  
 A full-stack tool for managing multiple social media accounts, analytics dashboards, scheduling posts, unified inbox, and Meta Graph API automation.
+<br>
 **Tech:** Django • Django REST FRAMEWORK • Celery • PostgreSQL • HTML • TailwindCSS • JavaScript • Flutter • GetX 
 
 ---
@@ -112,8 +113,7 @@ A mobile application for fast delivery operations with drivers, store management
 
 ### ⛽ **Fuel Inventory Management System**  
 A system to track fuel stocks, suppliers, transactions, and analytics dashboards with secure permissions.  
-**Back-end:** Django • Django REST FRAMEWORK • PostgreSQL
-**Front-end:** HTML • TailwindCSS • JavaScript
+**Tech:** Django • Django REST FRAMEWORK • PostgreSQL • HTML • TailwindCSS • JavaScript
 
 ---
 

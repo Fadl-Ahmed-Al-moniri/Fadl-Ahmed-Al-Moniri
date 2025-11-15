@@ -56,6 +56,7 @@
 ### 📱 Mobile & Flutter  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ### 🧩 State Management  
@@ -111,7 +112,8 @@ A mobile application for fast delivery operations with drivers, store management
 
 ### ⛽ **Fuel Inventory Management System**  
 A system to track fuel stocks, suppliers, transactions, and analytics dashboards with secure permissions.  
-**Tech:** Django REST • Flutter • PostgreSQL  
+**Back-end:** Django • Django REST FRAMEWORK • PostgreSQL
+**Front-end:** HTML • TailwindCSS • JavaScript
 
 ---
 

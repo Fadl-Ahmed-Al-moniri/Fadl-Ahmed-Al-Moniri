@@ -99,8 +99,8 @@
 ## 🌍 Featured Projects  
 
 ### 📱 **Sociolyze – Social Media Management System**  
-A full-stack tool for managing multiple social media accounts, analytics dashboards, scheduling posts, unified inbox, and Meta Graph API automation.  
-**Tech:** Flutter • Django REST • Celery • PostgreSQL • Tailwind  
+A full-stack tool for managing multiple social media accounts, analytics dashboards, scheduling posts, unified inbox, and Meta Graph API automation.
+**Tech:** Django • Django REST FRAMEWORK • Celery • PostgreSQL • HTML • TailwindCSS • JavaScript • Flutter • GetX 
 
 ---
 

@@ -26,7 +26,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Fadl Al-Moniri</h1>
-<h3 align="center">Flutter Developer | Full Stack Engineer (Django REST) | Mobile & Web Tech Enthusiast 🚀</h3>
+<h3 align="center">Flutter Developer | Full Stack Developer (Django REST) | Mobile & Web Tech Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4AB3F7&center=true&vCenter=true&width=650&lines=Flutter+Developer;Django+REST+API+Engineer;Mobile+App+Architect;Full+Stack+Developer;AI+%26+ML+Enthusiast;Welcome+to+my+GitHub+Profile!" />
